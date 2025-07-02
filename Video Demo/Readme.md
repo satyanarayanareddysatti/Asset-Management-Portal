@@ -1,5 +1,5 @@
 #1.Introduction:
-"Hi, I'm Satya, and my team member is Niharika.
+"Hi, I'm S.N.V.S.Satyanarayana Reddy, and my team member is Niharika.
 This is our ServiceNow project titled 'Asset Management Portal', developed as part of our internship."
 
 ##2. Table & Fields
